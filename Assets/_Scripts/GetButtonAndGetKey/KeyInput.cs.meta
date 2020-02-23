@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0f9c318518bf06b418f326f19721faa0
+timeCreated: 1582252981
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - graphic: {instanceID: 0}
+  - standard: {fileID: 2800000, guid: 6a03c06944fb78c479019ba03623e216, type: 3}
+  - downgfx: {fileID: 2800000, guid: c355cc90c4766b541b433b6e4bbeec01, type: 3}
+  - upgfx: {fileID: 2800000, guid: 5d4f1d4938f109949bba2e262f69a70f, type: 3}
+  - heldgfx: {fileID: 2800000, guid: cc71ffa5c144cc24a842b7de93bebf1a, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
